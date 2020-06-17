@@ -1,4 +1,7 @@
 # Battleship
-A nice game to play with a friend.
-Battleship is a war-themed board game for two players in which the opponents try to guess the location of their opponent's warships and sink them.
-Have fun.
+Strategy type guessing game for two players.
+Played on ruled grids (paper or board) on which each player's fleet of ships (including battleships) are marked.
+The locations of the fleets are concealed from the other player.
+Players alternate turns calling "shots" at the other player's ships.
+The objective of the game is to destroy the opposing player's fleet.
+
